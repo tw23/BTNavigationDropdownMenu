@@ -8,6 +8,8 @@
 
 import UIKit
 
+import BTNavigationDropdownMenu
+
 class ViewController: UIViewController {
 
     @IBOutlet weak var selectedCellLabel: UILabel!
